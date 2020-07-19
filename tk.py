@@ -58,6 +58,7 @@ class Application(tk.Frame):
 
     
     def speed_test(self):
+        # attempt speed test
         servers = []
         threads = 1
 
